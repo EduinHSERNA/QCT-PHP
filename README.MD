@@ -4,7 +4,7 @@ Quantum circuit tensor (QCT) is developed in PHP which allows to generate quantu
 
 # Installation
 
-```git clone https://github.com/NUN-LABS/QCT-PHP.git```
+```git clone https://github.com/EduinHSERNA/QCT-PHP```
 
 After clonning QCT into local, go to directory ```cd QCT```, and execute
 
